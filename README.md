@@ -1,2 +1,4 @@
-# sitepomme
- un site avec une maquette
+# sitePOMME
+ un site avec une maquettem
+ ## consignes
+ - Télécharger les fichiers images
